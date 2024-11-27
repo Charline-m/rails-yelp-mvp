@@ -1,0 +1,41 @@
+=> 
+[[32m#<Restaurant:0x00007fc93a0f1008[0m
+  id: [34m[1m11[0m,
+  name: [31m[1m"[0m[31mLe Gourmet Voyageur[0m[31m[1m"[0m,
+  address: [31m[1m"[0m[31m12 Rue des Champs-Élysées, 75008 Paris[0m[31m[1m"[0m,
+  phone_number: [31m[1m"[0m[31m01 40 70 12 34[0m[31m[1m"[0m,
+  category: [31m[1m"[0m[31mfrench[0m[31m[1m"[0m,
+  created_at: Wed, 27 Nov 2024 11:34:16.808962000 UTC +00:00,
+  updated_at: Wed, 27 Nov 2024 11:34:16.808962000 UTC +00:00[32m>[0m,
+ [32m#<Restaurant:0x00007fc93a4d67e0[0m
+  id: [34m[1m12[0m,
+  name: [31m[1m"[0m[31mSushiko[0m[31m[1m"[0m,
+  address: [31m[1m"[0m[31m25 Avenue de l'Opéra, 75001 Paris[0m[31m[1m"[0m,
+  phone_number: [31m[1m"[0m[31m01 45 67 89 10[0m[31m[1m"[0m,
+  category: [31m[1m"[0m[31mjapanese[0m[31m[1m"[0m,
+  created_at: Wed, 27 Nov 2024 11:34:16.811702000 UTC +00:00,
+  updated_at: Wed, 27 Nov 2024 11:34:16.811702000 UTC +00:00[32m>[0m,
+ [32m#<Restaurant:0x00007fc93a4d66a0[0m
+  id: [34m[1m13[0m,
+  name: [31m[1m"[0m[31mPasta e Basta[0m[31m[1m"[0m,
+  address: [31m[1m"[0m[31m42 Boulevard Montmartre, 75009 Paris[0m[31m[1m"[0m,
+  phone_number: [31m[1m"[0m[31m01 46 78 99 11[0m[31m[1m"[0m,
+  category: [31m[1m"[0m[31mitalian[0m[31m[1m"[0m,
+  created_at: Wed, 27 Nov 2024 11:34:16.813762000 UTC +00:00,
+  updated_at: Wed, 27 Nov 2024 11:34:16.813762000 UTC +00:00[32m>[0m,
+ [32m#<Restaurant:0x00007fc93a4d6420[0m
+  id: [34m[1m14[0m,
+  name: [31m[1m"[0m[31mPeking Palace[0m[31m[1m"[0m,
+  address: [31m[1m"[0m[31m56 Rue de la République, 75011 Paris[0m[31m[1m"[0m,
+  phone_number: [31m[1m"[0m[31m01 48 65 43 21[0m[31m[1m"[0m,
+  category: [31m[1m"[0m[31mchinese[0m[31m[1m"[0m,
+  created_at: Wed, 27 Nov 2024 11:34:16.826624000 UTC +00:00,
+  updated_at: Wed, 27 Nov 2024 11:34:16.826624000 UTC +00:00[32m>[0m,
+ [32m#<Restaurant:0x00007fc93a4d62e0[0m
+  id: [34m[1m15[0m,
+  name: [31m[1m"[0m[31mBrasserie Léon de Bruxelles[0m[31m[1m"[0m,
+  address: [31m[1m"[0m[31m33 Boulevard de la Bastille, 75012 Paris[0m[31m[1m"[0m,
+  phone_number: [31m[1m"[0m[31m01 53 24 67 89[0m[31m[1m"[0m,
+  category: [31m[1m"[0m[31mbelgian[0m[31m[1m"[0m,
+  created_at: Wed, 27 Nov 2024 11:34:16.828565000 UTC +00:00,
+  updated_at: Wed, 27 Nov 2024 11:34:16.828565000 UTC +00:00[32m>[0m]
